@@ -1,10 +1,10 @@
 # Site settings
-title: *folio
-email: newbie@noob.com
+title: CWardee Portfolio
+email: chris@cwardee.co.uk
 description: > # this means to ignore newlines until "baseurl:"
   My portfolio and Dev Blog.
 baseurl: "/" # the subpath of your site, e.g. /blog/
-url: https://  # the base hostname & protocol for your site
+url: https://githubusername.github.io
 twitter_username: twitter
 github_username:  github
 
